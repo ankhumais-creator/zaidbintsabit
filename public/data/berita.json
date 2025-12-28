@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Penerimaan Peserta Didik Baru Gelombang 1 Dibuka",
+        "date": "1 Desember 2024",
+        "summary": "Segera daftarkan putra-putri Anda untuk tahun ajaran baru. Dapatkan potongan biaya pendaftaran untuk 10 pendaftar pertama.",
+        "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+        "id": 2,
+        "title": "Kegiatan Outbound Kelas 4 & 5",
+        "date": "20 November 2024",
+        "summary": "Siswa-siswi MI Zaid Bin Tsabit mengikuti kegiatan outbound untuk melatih kepemimpinan dan kerjasama tim.",
+        "img": "https://images.unsplash.com/photo-1472162072942-cd5147eb3902?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+        "id": 3,
+        "title": "Prestasi Juara 1 Lomba Tahfidz Kecamatan",
+        "date": "10 November 2024",
+        "summary": "Alhamdulillah, ananda Fatih berhasil meraih juara 1 dalam lomba tahfidz tingkat kecamatan.",
+        "img": "https://images.unsplash.com/photo-1607982969260-885f8f7aa48a?q=80&w=800&auto=format&fit=crop"
+    }
+]

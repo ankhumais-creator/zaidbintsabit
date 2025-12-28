@@ -1,0 +1,9 @@
+# Netlify Redirects for SPA
+# Static files first
+/admin/*    /admin/:splat   200
+/data/*     /data/:splat    200
+/assets/*   /assets/:splat  200
+/presentasi.html  /presentasi.html  200
+
+# SPA fallback - all other routes go to index.html
+/*    /index.html   200

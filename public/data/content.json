@@ -1,0 +1,116 @@
+{
+    "hero": {
+        "title_line_1": "Membangun Generasi",
+        "title_highlight": "Qur'ani & Berprestasi",
+        "subtitle": "Pendidikan Islam terpadu yang menggabungkan nilai-nilai Al-Qur'an dengan kurikulum modern untuk masa depan yang gemilang.",
+        "bg_image": ""
+    },
+    "profil": {
+        "sejarah": "RA dan MI Zaid Bin Tsabit berdiri dengan semangat untuk mencetak generasi Islami yang cerdas dan berakhlakul karimah. Berlokasi di Kulon Progo, kami terus berkembang menjadi lembaga pendidikan pilihan yang memadukan ilmu pengetahuan umum dan agama.\n\nNama \"Zaid Bin Tsabit\" diambil dari nama sahabat Nabi yang dikenal sebagai penulis wahyu, dengan harapan peserta didik kami dapat meneladani kecerdasannya dan ketaatannya pada Al-Qur'an.",
+        "visi": "\"Terwujudnya Generasi Qur'ani, Cerdas, Mandiri, dan Berwawasan Global.\"",
+        "misi": [
+            "Menanamkan nilai-nilai Al-Qur'an dan As-Sunnah dalam kehidupan sehari-hari.",
+            "Menyelenggarakan pendidikan yang berkualitas dan menyenangkan.",
+            "Mengembangkan potensi minat dan bakat siswa secara optimal.",
+            "Membangun kerjasama sinergis antara sekolah, orang tua, dan masyarakat."
+        ],
+        "image": ""
+    },
+    "akademik": {
+        "page_description": "Program pendidikan kami dirancang untuk menyeimbangkan kecerdasan intelektual, emosional, dan spiritual.",
+        "ra_title": "Raudhatul Athfal (RA)",
+        "ra_description": "Pendidikan usia dini yang berfokus pada pembentukan karakter dasar, kemandirian, dan pengenalan nilai-nilai Islam melalui metode bermain sambil belajar.",
+        "ra_programs": [
+            "Tahfidz Juz 30 (Surat Pendek)",
+            "Pembiasaan Ibadah Harian",
+            "Pengenalan Calistung Dasar",
+            "Kreativitas & Motorik"
+        ],
+        "mi_title": "Madrasah Ibtidaiyah (MI)",
+        "mi_description": "Pendidikan dasar setingkat SD dengan kurikulum Kemenag dan Kemendikbud, diperkaya dengan muatan lokal keagamaan yang intensif.",
+        "mi_programs": [
+            "Kurikulum Merdeka",
+            "Tahfidz Al-Qur'an Target 3 Juz",
+            "Bahasa Arab & Inggris",
+            "Pramuka & Ekstrakurikuler Pilihan"
+        ]
+    },
+    "fasilitas": [
+        {
+            "name": "Ruang Kelas Nyaman",
+            "img": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "name": "Masjid Sekolah",
+            "img": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "name": "Perpustakaan",
+            "img": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "name": "Lapangan Olahraga",
+            "img": "https://images.unsplash.com/photo-1562771242-a02d9090c90c?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "name": "Area Bermain RA",
+            "img": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "name": "UKS",
+            "img": "https://images.unsplash.com/photo-1576091160550-2187d80018fd?q=80&w=800&auto=format&fit=crop"
+        }
+    ],
+    "ppdb": {
+        "tahun_ajaran": "2025/2026",
+        "alur": [
+            {
+                "title": "Mengisi Formulir",
+                "desc": "Isi formulir pendaftaran secara online atau datang langsung ke sekolah."
+            },
+            {
+                "title": "Wawancara & Observasi",
+                "desc": "Calon siswa dan orang tua mengikuti sesi wawancara dan observasi."
+            },
+            {
+                "title": "Pengumuman",
+                "desc": "Hasil seleksi akan diumumkan melalui website dan WhatsApp."
+            },
+            {
+                "title": "Daftar Ulang",
+                "desc": "Melakukan pembayaran administrasi dan melengkapi berkas."
+            }
+        ],
+        "syarat": [
+            "Mengisi formulir pendaftaran.",
+            "Fotokopi Akta Kelahiran (2 lembar).",
+            "Fotokopi Kartu Keluarga (2 lembar).",
+            "Fotokopi KTP Orang Tua (Ayah & Ibu).",
+            "Pas foto berwarna ukuran 3x4 (2 lembar).",
+            "Usia minimal 6 tahun (untuk MI) pada bulan Juli."
+        ],
+        "phone": "0812-8588-8284",
+        "jam_layanan": "Senin - Sabtu (08.00 - 14.00)",
+        "whatsapp_number": "6281285888284"
+    },
+    "footer": {
+        "tagline": "Membangun Generasi Qur'ani, Cerdas, dan Berakhlakul Karimah.",
+        "alamat": "Dusun 1, Gotakan, Kec. Panjatan, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55655",
+        "phone": "0812-8588-8284",
+        "email": "info@zaidbintsabit.sch.id",
+        "facebook": "",
+        "instagram": "",
+        "youtube": ""
+    },
+    "gallery": [
+        {
+            "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1472162072942-cd5147eb3902?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1607982969260-885f8f7aa48a?q=80&w=800&auto=format&fit=crop"
+        }
+    ]
+}
