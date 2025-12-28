@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { ArrowRight, BookOpen, Heart, Star, Users } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import heroBg from '../assets/images/hero-bg.jpg';
+import heroBg from '../assets/images/hero-bg.webp';
 import GallerySection from '../components/GallerySection';
 import SEO from '../components/SEO';
 
@@ -139,7 +139,7 @@ const Home = () => {
                                     <span className="font-bold">A</span>
                                 </div>
                                 <div>
-                                    <h4 className="font-bold text-gray-800">Alamat Lengkap</h4>
+                                    <h3 className="font-bold text-gray-800">Alamat Lengkap</h3>
                                     <p className="text-gray-600">
                                         Dusun 1, Gotakan, Kec. Panjatan, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55655
                                     </p>
@@ -150,7 +150,7 @@ const Home = () => {
                             href="https://maps.app.goo.gl/VdCreBMHPxCn3yK56"
                             target="_blank"
                             rel="noreferrer"
-                            className="inline-block mt-8 text-green-600 font-semibold hover:text-green-700 hover:underline"
+                            className="inline-block mt-8 text-green-700 font-semibold hover:text-green-800 hover:underline"
                         >
                             Buka di Google Maps &rarr;
                         </a>

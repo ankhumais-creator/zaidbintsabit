@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
-import ProfilImage from '../assets/images/profil-sekolah.png';
+import ProfilImage from '../assets/images/profil-sekolah.webp';
 import SEO from '../components/SEO';
 
 const Profil = () => {

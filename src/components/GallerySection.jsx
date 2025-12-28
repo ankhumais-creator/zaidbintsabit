@@ -5,8 +5,8 @@ const GallerySection = () => {
     const [galleryImages, setGalleryImages] = useState([]);
     const [useLocalImages, setUseLocalImages] = useState(true);
 
-    // Dynamically import all images from the gallery folder (local assets)
-    const imagesGlob = import.meta.glob('../assets/images/gallery/*.{png,jpg,jpeg,webp}', { eager: true, as: 'url' });
+    // Dynamically import all images from the gallery folder (local assets) - prefer WebP
+    const imagesGlob = import.meta.glob('../assets/images/gallery/*.{webp,png,jpg,jpeg}', { eager: true, query: '?url', import: 'default' });
     const localImages = Object.values(imagesGlob);
 
     useEffect(() => {

@@ -33,7 +33,7 @@ const Footer = () => {
                             </div>
                             <span className="font-bold text-xl">Zaid Bin Tsabit</span>
                         </div>
-                        <p className="text-gray-400 mb-4">
+                        <p className="text-gray-300 mb-4">
                             {footer.tagline}
                         </p>
                     </div>
@@ -41,7 +41,7 @@ const Footer = () => {
                     {/* Contact Info */}
                     <div>
                         <h3 className="text-lg font-bold mb-4">Hubungi Kami</h3>
-                        <ul className="space-y-3 text-gray-400">
+                        <ul className="space-y-3 text-gray-300">
                             <li className="flex items-start gap-3">
                                 <MapPin className="mt-1 flex-shrink-0 text-green-500" size={20} aria-hidden="true" />
                                 <span>{footer.alamat}</span>
@@ -78,16 +78,16 @@ const Footer = () => {
                             )}
                             {!footer.facebook && !footer.instagram && !footer.youtube && (
                                 <>
-                                    <span className="bg-gray-800 p-2 rounded-full opacity-50 cursor-not-allowed" aria-label="Facebook (belum aktif)"><Facebook size={20} aria-hidden="true" /></span>
-                                    <span className="bg-gray-800 p-2 rounded-full opacity-50 cursor-not-allowed" aria-label="Instagram (belum aktif)"><Instagram size={20} aria-hidden="true" /></span>
-                                    <span className="bg-gray-800 p-2 rounded-full opacity-50 cursor-not-allowed" aria-label="YouTube (belum aktif)"><Youtube size={20} aria-hidden="true" /></span>
+                                    <div className="bg-gray-700 p-2 rounded-full opacity-60 cursor-not-allowed" role="img" aria-hidden="true"><Facebook size={20} /></div>
+                                    <div className="bg-gray-700 p-2 rounded-full opacity-60 cursor-not-allowed" role="img" aria-hidden="true"><Instagram size={20} /></div>
+                                    <div className="bg-gray-700 p-2 rounded-full opacity-60 cursor-not-allowed" role="img" aria-hidden="true"><Youtube size={20} /></div>
                                 </>
                             )}
                         </div>
                     </div>
                 </div>
 
-                <div className="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
+                <div className="border-t border-gray-700 pt-8 text-center text-gray-400 text-sm">
                     <p>&copy; {new Date().getFullYear()} RA & MI Zaid Bin Tsabit. All rights reserved.</p>
                 </div>
             </div>
